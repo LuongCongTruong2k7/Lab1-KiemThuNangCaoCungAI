@@ -1,4 +1,4 @@
-# Lab 1 - Nhập môn kiểm thử tự động
+# Lab 1 - Kiểm thử nâng cao cùng AI
 
 ## Môi trường
 - .NET SDK: 10.0.403
